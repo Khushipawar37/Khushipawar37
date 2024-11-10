@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Khushi Pawar
+# A passionate **MERN Stack Web Developer**
 
 ---
 
-A passionate **MERN Stack Web Developer**
 
 I'm a **second-year Computer Science student** at MSIT, passionate about building web applications that are both functional and visually engaging. As a **MERN stack web developer**, I'm eager to bring innovative ideas to life with code.
 
