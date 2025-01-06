@@ -1,4 +1,4 @@
-# Hi there !  I'm Khushi Pawar
+# Hi there!  I'm Khushi Pawar
 # A passionate **MERN Stack Web Developer**
 
 ---
