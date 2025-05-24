@@ -30,7 +30,6 @@ I'm a **second-year Computer Science student** at MSIT, passionate about buildin
 ---
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Khushipawar37&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=khushipawar37&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/><br/>
 <img align="center" width="50%" src="https://streak-stats.demolab.com/?user=khushipawar37&theme=merko&hide_border=true"> <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushipawar37&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
