@@ -1,5 +1,5 @@
 # Hi there!  I'm Khushi Pawar
-# A passionate **Full Stack Web Developer**
+# A **Full Stack Web Developer**
 
 ---
 
