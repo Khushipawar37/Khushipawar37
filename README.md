@@ -26,10 +26,10 @@ I'm a third-year Computer Science student at MSIT, driven by a love for building
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me:  
 
 - **LinkedIn**: [Khushi Pawar](https://www.linkedin.com/in/khushi-pawar-2823952b0)
-- **Email**: khushipawar987@gmail.com
+- **Email**: khushipawar987@gmail.com 
 
 ---
 
